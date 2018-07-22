@@ -1,0 +1,10 @@
+C:\Kunal\Learning\C#, MVC\MVCDemos\bin\Debug\netcoreapp2.0\MVCDemos.deps.json
+C:\Kunal\Learning\C#, MVC\MVCDemos\bin\Debug\netcoreapp2.0\MVCDemos.runtimeconfig.json
+C:\Kunal\Learning\C#, MVC\MVCDemos\bin\Debug\netcoreapp2.0\MVCDemos.runtimeconfig.dev.json
+C:\Kunal\Learning\C#, MVC\MVCDemos\bin\Debug\netcoreapp2.0\MVCDemos.dll
+C:\Kunal\Learning\C#, MVC\MVCDemos\bin\Debug\netcoreapp2.0\MVCDemos.pdb
+C:\Kunal\Learning\C#, MVC\MVCDemos\obj\Debug\netcoreapp2.0\MVCDemos.csproj.CoreCompileInputs.cache
+C:\Kunal\Learning\C#, MVC\MVCDemos\obj\Debug\netcoreapp2.0\MVCDemos.AssemblyInfoInputs.cache
+C:\Kunal\Learning\C#, MVC\MVCDemos\obj\Debug\netcoreapp2.0\MVCDemos.AssemblyInfo.cs
+C:\Kunal\Learning\C#, MVC\MVCDemos\obj\Debug\netcoreapp2.0\MVCDemos.dll
+C:\Kunal\Learning\C#, MVC\MVCDemos\obj\Debug\netcoreapp2.0\MVCDemos.pdb
